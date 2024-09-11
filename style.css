@@ -105,16 +105,19 @@ h3{
 .stats p.balance{
     background-color: #fff2dd92;
     border-right: 10px solid #F6C065;
+    
 }
 
 .stats p.income{
     background-color: #e7fff1ad;
     border-right: 10px solid #16c77a;
+   
 }
 
 .stats p.expense{
     background-color: #ffeef0bb;
     border-right: 10px solid #EB596E;
+    
 }
 
 .stats p span{
@@ -154,10 +157,13 @@ h3{
 
 .records .income li{
     border-left: 10px solid #2ECC71;
+   
 }
 
 .records .expense li{
     border-left: 10px solid #DF5E5E;
+    
+    
 }
 
 .records li p:first-child{
